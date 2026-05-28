@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": 3,
       "metadata": {
         "id": "QURdWqbjJES-"
       },
@@ -48,7 +48,7 @@
       "metadata": {
         "id": "oUJHW2p-NaK3"
       },
-      "execution_count": 2,
+      "execution_count": 4,
       "outputs": []
     },
     {
@@ -62,9 +62,9 @@
           "height": 496
         },
         "id": "qgz_rutrNwg1",
-        "outputId": "fd71f5f4-f739-4d0b-8141-89110d694f2a"
+        "outputId": "741376bc-78aa-4401-af9c-4e1c4876ef55"
       },
-      "execution_count": 3,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -113,7 +113,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-229a0e09-512d-4955-99ed-cada57f9eeaf\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-e48096a8-31b8-4aec-82c3-9ac8dd44cfca\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -307,7 +307,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-229a0e09-512d-4955-99ed-cada57f9eeaf')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-e48096a8-31b8-4aec-82c3-9ac8dd44cfca')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -359,12 +359,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-229a0e09-512d-4955-99ed-cada57f9eeaf button.colab-df-convert');\n",
+              "        document.querySelector('#df-e48096a8-31b8-4aec-82c3-9ac8dd44cfca button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-229a0e09-512d-4955-99ed-cada57f9eeaf');\n",
+              "        const element = document.querySelector('#df-e48096a8-31b8-4aec-82c3-9ac8dd44cfca');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -384,7 +384,7 @@
               "  </div>\n",
               "\n",
               "\n",
-              "  <div id=\"id_cbeea6e4-1051-41e9-97c5-bbcea132f179\">\n",
+              "  <div id=\"id_3e14ff17-955d-46e1-b8aa-40719c0a4bdc\">\n",
               "    <style>\n",
               "      .colab-df-generate {\n",
               "        background-color: #E8F0FE;\n",
@@ -428,7 +428,7 @@
               "    <script>\n",
               "      (() => {\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#id_cbeea6e4-1051-41e9-97c5-bbcea132f179 button.colab-df-generate');\n",
+              "        document.querySelector('#id_3e14ff17-955d-46e1-b8aa-40719c0a4bdc button.colab-df-generate');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
@@ -449,7 +449,7 @@
             }
           },
           "metadata": {},
-          "execution_count": 3
+          "execution_count": 5
         }
       ]
     },
@@ -463,9 +463,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "cGrPh3saNx6D",
-        "outputId": "a9f16806-befa-459c-df8f-08d871d6c3c3"
+        "outputId": "7bf614c4-849e-4766-f9ee-21d30ac5118d"
       },
-      "execution_count": 4,
+      "execution_count": 6,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -475,7 +475,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 4
+          "execution_count": 6
         }
       ]
     },
@@ -490,9 +490,9 @@
           "height": 429
         },
         "id": "7Vc4DvRfN62L",
-        "outputId": "c6c75061-0197-4df8-9cd8-48c270a48286"
+        "outputId": "9a2e0fa0-e418-4b45-f078-3810d069e2f8"
       },
-      "execution_count": 5,
+      "execution_count": 7,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -584,7 +584,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 5
+          "execution_count": 7
         }
       ]
     },
@@ -597,7 +597,7 @@
       "metadata": {
         "id": "7AlbaJj1OZ6A"
       },
-      "execution_count": 6,
+      "execution_count": 8,
       "outputs": []
     },
     {
@@ -611,7 +611,7 @@
       "metadata": {
         "id": "KAIFOPKfOt65"
       },
-      "execution_count": 7,
+      "execution_count": 9,
       "outputs": []
     },
     {
@@ -625,9 +625,9 @@
           "height": 244
         },
         "id": "ccBk7t3EPhFB",
-        "outputId": "6d3c0522-9f0f-4f01-9511-3409c09f0867"
+        "outputId": "d9904d4f-d4dc-4ba7-d983-352786793b2d"
       },
-      "execution_count": 8,
+      "execution_count": 10,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -656,7 +656,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-dc997c33-aa1a-4f3f-8235-b8808387f18b\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-129fee89-5ba0-4c2b-be13-3722eaf2aa24\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -765,7 +765,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-dc997c33-aa1a-4f3f-8235-b8808387f18b')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-129fee89-5ba0-4c2b-be13-3722eaf2aa24')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -817,12 +817,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-dc997c33-aa1a-4f3f-8235-b8808387f18b button.colab-df-convert');\n",
+              "        document.querySelector('#df-129fee89-5ba0-4c2b-be13-3722eaf2aa24 button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-dc997c33-aa1a-4f3f-8235-b8808387f18b');\n",
+              "        const element = document.querySelector('#df-129fee89-5ba0-4c2b-be13-3722eaf2aa24');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -852,7 +852,7 @@
             }
           },
           "metadata": {},
-          "execution_count": 8
+          "execution_count": 10
         }
       ]
     },
@@ -869,9 +869,9 @@
           "height": 914
         },
         "id": "6UunSM8NPjNW",
-        "outputId": "4ffbb7f7-8ac6-4c3c-f11b-7f99b1d98d51"
+        "outputId": "06652af5-3521-4cdf-8626-a042976ef02d"
       },
-      "execution_count": 9,
+      "execution_count": 11,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -881,7 +881,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 9
+          "execution_count": 11
         },
         {
           "output_type": "display_data",
@@ -911,9 +911,9 @@
           "height": 852
         },
         "id": "R0gcJ2wLPrh6",
-        "outputId": "514202d2-7a58-40d9-d55c-daf293c9a89b"
+        "outputId": "96241330-6e22-45d2-e78e-b64fe82d3f11"
       },
-      "execution_count": 10,
+      "execution_count": 12,
       "outputs": [
         {
           "output_type": "display_data",
@@ -943,9 +943,9 @@
           "height": 858
         },
         "id": "VcpjG-O0P6Rq",
-        "outputId": "463def61-bdea-4f19-940d-419192e29891"
+        "outputId": "493afb25-7e1d-4d58-a819-3c6d1d820e97"
       },
-      "execution_count": 11,
+      "execution_count": 13,
       "outputs": [
         {
           "output_type": "display_data",
@@ -975,9 +975,9 @@
           "height": 846
         },
         "id": "Li_udgSER35B",
-        "outputId": "8f312694-084b-41c5-a8b2-c6bfafef5555"
+        "outputId": "47460555-03a3-4ad4-fa06-0e871871e458"
       },
-      "execution_count": 12,
+      "execution_count": 14,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1007,9 +1007,9 @@
           "height": 850
         },
         "id": "mqBdVFfnSJfZ",
-        "outputId": "1a8eb90a-99f2-4387-b83b-9ed85a2b32fc"
+        "outputId": "eef8e7d7-c6d4-447a-d5ea-b8dc4add1ee2"
       },
-      "execution_count": 13,
+      "execution_count": 15,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1042,9 +1042,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "6kpP0QNUSlgl",
-        "outputId": "819edc8c-2ed6-4368-c035-2f1e083f7768"
+        "outputId": "9a4485b1-593e-4e17-969b-c122c921b72d"
       },
-      "execution_count": 14,
+      "execution_count": 16,
       "outputs": [
         {
           "output_type": "stream",
@@ -1081,9 +1081,9 @@
           "height": 852
         },
         "id": "zh1EkuVKWvDD",
-        "outputId": "593abebf-10ab-48b8-d78f-5ada55966385"
+        "outputId": "13ba312e-3d06-4269-e7c5-96de3183e159"
       },
-      "execution_count": 15,
+      "execution_count": 17,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1116,9 +1116,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "e-z2B5IZX4KP",
-        "outputId": "489c759f-9c7f-4086-b3a4-736e47c76806"
+        "outputId": "24d5e733-f051-4dcf-f5cf-faf49bfaed20"
       },
-      "execution_count": 16,
+      "execution_count": 18,
       "outputs": [
         {
           "output_type": "stream",
@@ -1155,9 +1155,9 @@
           "height": 858
         },
         "id": "7GmMU5swYYQF",
-        "outputId": "7872fb14-9978-4115-fe7e-2555044cb8aa"
+        "outputId": "f13d8d09-7001-4e83-b752-684c933f12be"
       },
-      "execution_count": 17,
+      "execution_count": 19,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1190,9 +1190,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "WwpNbsIAYa0j",
-        "outputId": "bfb164e4-f2d8-40a1-d5fa-6f7d44a00716"
+        "outputId": "f44e3a30-32e1-404c-f467-4d12d82fd34d"
       },
-      "execution_count": 18,
+      "execution_count": 20,
       "outputs": [
         {
           "output_type": "stream",
@@ -1229,9 +1229,9 @@
           "height": 846
         },
         "id": "bwH-0_SdYyEJ",
-        "outputId": "eb88466d-e2e0-4229-db16-a4fea2bfe440"
+        "outputId": "ef9c1b94-3efc-4f4b-d7a6-a478a1b40a83"
       },
-      "execution_count": 19,
+      "execution_count": 21,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1264,9 +1264,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "lQJotb3WY079",
-        "outputId": "5bf1e6ed-e8bf-4aa3-a1f9-ff02e5c4f72e"
+        "outputId": "ca6b01c3-1ab9-4b24-eb0c-7e093039f6e2"
       },
-      "execution_count": 20,
+      "execution_count": 22,
       "outputs": [
         {
           "output_type": "stream",
@@ -1303,9 +1303,9 @@
           "height": 858
         },
         "id": "9WVo7pFDZlFs",
-        "outputId": "2bf7d142-186d-47d2-d22c-4b9c772dd98e"
+        "outputId": "9b58ec8e-8da9-4bf4-9008-efaf61971f54"
       },
-      "execution_count": 21,
+      "execution_count": 23,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1332,9 +1332,9 @@
           "height": 244
         },
         "id": "Zv09lVqLZnVy",
-        "outputId": "3c53ec7f-327c-49db-c73e-aca6788cdcc1"
+        "outputId": "31f0ced6-e10b-4706-ab78-6faf808e47e4"
       },
-      "execution_count": 22,
+      "execution_count": 24,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1363,7 +1363,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-c79c2698-2ae4-460b-a322-7b7fa1671cf6\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-902d5ffa-bac4-42d5-8efd-e15c62fe946f\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -1472,7 +1472,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-c79c2698-2ae4-460b-a322-7b7fa1671cf6')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-902d5ffa-bac4-42d5-8efd-e15c62fe946f')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -1524,12 +1524,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-c79c2698-2ae4-460b-a322-7b7fa1671cf6 button.colab-df-convert');\n",
+              "        document.querySelector('#df-902d5ffa-bac4-42d5-8efd-e15c62fe946f button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-c79c2698-2ae4-460b-a322-7b7fa1671cf6');\n",
+              "        const element = document.querySelector('#df-902d5ffa-bac4-42d5-8efd-e15c62fe946f');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -1559,7 +1559,7 @@
             }
           },
           "metadata": {},
-          "execution_count": 22
+          "execution_count": 24
         }
       ]
     },
@@ -1572,7 +1572,7 @@
       "metadata": {
         "id": "_SGFu0ZdZ-zw"
       },
-      "execution_count": 23,
+      "execution_count": 25,
       "outputs": []
     },
     {
@@ -1584,7 +1584,7 @@
       "metadata": {
         "id": "i0U6D5ovaCAt"
       },
-      "execution_count": 24,
+      "execution_count": 26,
       "outputs": []
     },
     {
@@ -1600,9 +1600,9 @@
           "height": 80
         },
         "id": "4FB5796laYHN",
-        "outputId": "ee9fd077-8461-41bb-bd78-cc330fe5cd86"
+        "outputId": "3b50f0f4-fb15-4452-f7c6-caff02a94c4f"
       },
-      "execution_count": 25,
+      "execution_count": 27,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2030,7 +2030,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 25
+          "execution_count": 27
         }
       ]
     },
@@ -2045,9 +2045,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "HjrmYDF_arBo",
-        "outputId": "982690cf-d18e-48d0-f5c9-d42b944bc5bf"
+        "outputId": "62df452f-6e37-4612-ed29-9991e089b13c"
       },
-      "execution_count": 26,
+      "execution_count": 28,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -2057,7 +2057,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 26
+          "execution_count": 28
         }
       ]
     },
@@ -2072,19 +2072,19 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "fMSnkXMUa7xJ",
-        "outputId": "f5f39c72-7e0a-4e86-906f-68e00eea47ff"
+        "outputId": "8e63a60e-e947-42d0-d00e-dfd2eb1890fc"
       },
-      "execution_count": 27,
+      "execution_count": 29,
       "outputs": [
         {
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "0.9037878787878788"
+              "0.906060606060606"
             ]
           },
           "metadata": {},
-          "execution_count": 27
+          "execution_count": 29
         }
       ]
     },
@@ -2099,22 +2099,22 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "tNES2sQWbElt",
-        "outputId": "93007556-a1e3-4106-d03d-111aea7c92ea"
+        "outputId": "790e8b44-da17-4c50-b190-1231cc2b12b8"
       },
-      "execution_count": 28,
+      "execution_count": 30,
       "outputs": [
         {
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "array([[571,  37,  18,  33],\n",
-              "       [ 37, 608,  17,  20],\n",
-              "       [  8,  19, 620,  17],\n",
-              "       [ 20,  15,  13, 587]])"
+              "array([[573,  37,  16,  33],\n",
+              "       [ 32, 615,  16,  19],\n",
+              "       [ 12,  16, 616,  20],\n",
+              "       [ 22,  13,  12, 588]])"
             ]
           },
           "metadata": {},
-          "execution_count": 28
+          "execution_count": 30
         }
       ]
     },
@@ -2129,9 +2129,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "h_jPIjVhbMkt",
-        "outputId": "d6b605e9-f683-4ad8-aa6f-58e66fc256bc"
+        "outputId": "9fff1bd2-7ac7-4cf0-da65-de6a087b4eb8"
       },
-      "execution_count": 29,
+      "execution_count": 31,
       "outputs": [
         {
           "output_type": "stream",
@@ -2140,13 +2140,13 @@
             "              precision    recall  f1-score   support\n",
             "\n",
             "           0       0.90      0.87      0.88       659\n",
-            "           1       0.90      0.89      0.89       682\n",
+            "           1       0.90      0.90      0.90       682\n",
             "           2       0.93      0.93      0.93       664\n",
-            "           3       0.89      0.92      0.91       635\n",
+            "           3       0.89      0.93      0.91       635\n",
             "\n",
-            "    accuracy                           0.90      2640\n",
-            "   macro avg       0.90      0.90      0.90      2640\n",
-            "weighted avg       0.90      0.90      0.90      2640\n",
+            "    accuracy                           0.91      2640\n",
+            "   macro avg       0.91      0.91      0.91      2640\n",
+            "weighted avg       0.91      0.91      0.91      2640\n",
             "\n"
           ]
         }
@@ -2238,9 +2238,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "bHEr-gg2cVHl",
-        "outputId": "e0638560-0364-437c-ff29-62a0cc26bccb"
+        "outputId": "1f5f8431-7568-4759-f976-c322ae5b4f1c"
       },
-      "execution_count": 36,
+      "execution_count": 32,
       "outputs": [
         {
           "output_type": "stream",
@@ -2248,21 +2248,21 @@
           "text": [
             "Please enter the following weather parameters:\n",
             "***IMPORTANT: For categorical inputs, you MUST copy-paste one of the exact options provided, including capitalization.***\n",
-            "Temperature (e.g., 15.0): 10.0\n",
-            "Humidity (e.g., 70.0): 10.0\n",
+            "Temperature (e.g., 15.0): 14.0\n",
+            "Humidity (e.g., 70.0): 69.0\n",
             "Wind Speed (e.g., 10.0): 9.0\n",
-            "Precipitation (%) (e.g., 50.0): 45.0\n",
+            "Precipitation (%) (e.g., 50.0): 49.0\n",
             "Available Cloud Cover options:  ['clear', 'cloudy', 'overcast', 'partly cloudy']\n",
-            "Cloud Cover (COPY EXACTLY, e.g., 'partly cloudy'): cloudy\n",
-            "Atmospheric Pressure (e.g., 1010.0): 1010.0\n",
-            "UV Index (e.g., 5.0): 5.0\n",
+            "Cloud Cover (COPY EXACTLY, e.g., 'partly cloudy'): overcast\n",
+            "Atmospheric Pressure (e.g., 1010.0): 1009.0\n",
+            "UV Index (e.g., 5.0): 4.0\n",
             "Available Season options:  ['Autumn', 'Spring', 'Summer', 'Winter']\n",
-            "Season (COPY EXACTLY, e.g., 'Winter'): Summer\n",
-            "Visibility (km) (e.g., 5.0): 3.0\n",
+            "Season (COPY EXACTLY, e.g., 'Winter'): Spring\n",
+            "Visibility (km) (e.g., 5.0): 5.0\n",
             "Available Location options:  ['coastal', 'inland', 'mountain']\n",
             "Location (COPY EXACTLY, e.g., 'inland'): inland\n",
             "\n",
-            "Based on your input, the predicted Weather Type is: Snowy\n"
+            "Based on your input, the predicted Weather Type is: Cloudy\n"
           ]
         }
       ]
